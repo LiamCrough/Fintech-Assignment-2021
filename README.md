@@ -1,7 +1,7 @@
 # Fintech-Assignment-1-2020-21
 First assignment for Monash University FinTech short course.  
 
-# Algorithmic Trading Strategy Comparison Idea
+# Project- Future Now
 For this version of the project we would pull financial data using the alpaca API for a handful of large cap stocks as well as the main index.
 
 Once this data has been received and cleaned, the closing prices will be plotted using various python libraries. This data may be referred to as the 'null portfolio'. 
